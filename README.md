@@ -13,7 +13,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import BashColorTool
+uni import Ling/BashColorTool
 ```
 
 Or just download it and place it where you want otherwise.
@@ -29,7 +29,7 @@ Howto
 <?php
 
 
-use BashColorTool\BashColorTool;
+use Ling\BashColorTool\BashColorTool;
 
 
 //--------------------------------------------

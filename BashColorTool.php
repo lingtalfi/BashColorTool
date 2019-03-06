@@ -1,7 +1,7 @@
 <?php
 
 
-namespace BashColorTool;
+namespace Ling\BashColorTool;
 
 
 class BashColorTool
