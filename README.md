@@ -67,7 +67,11 @@ BashColorTool::output("ok", "red", "blue"); // foreground: red, background: blue
 
 History Log
 ------------------
-    
+
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2018-03-22
 
     - initial commit
